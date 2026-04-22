@@ -43,7 +43,7 @@
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts" />
 </p>
 
 ### Databases
