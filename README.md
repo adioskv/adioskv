@@ -61,15 +61,3 @@
 ## Current Focus
 
 I am focused on building modern full-stack applications, improving backend architecture, and working on SaaS and AI-driven products.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adioskv&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adioskv&layout=compact&theme=github_dark&hide_border=true" />
-</p>
